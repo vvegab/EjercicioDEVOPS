@@ -4,7 +4,7 @@ laboratorio de integración continua
 
 # GitHub Actions
 
-- Configura una action importando el plugin Maven, tal como lo mostró el profesor
+- Configura una action importando el plugin "Java with Maven", tal como lo mostró el profesor
 - Modifica el archivo `maven-publish.yml` dejándolo así:
 
 ```
